@@ -48,11 +48,11 @@ Me encantaría ser desarrollador de videojuegos 😍
 
 ## Mis lenguajes
 
-<img align="left" alt="C#" width="50px" 
+<img align="left" alt="C#" width="60px" 
   src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" />
-<img align="left" alt="Java" width="26px" 
+<img align="left" alt="Java" width="60px" 
   src="https://b7.pngbarn.com/png/933/14/java-programming-language-computer-programming-object-oriented-programming-programmer-java-png-clip-art.png" />
-<img align="left" alt="SQL" width="26px" 
+<img align="left" alt="SQL" width="60px" 
   src="https://img1.freepng.es/20180802/fh/kisspng-clip-art-microsoft-azure-sql-database-microsoft-sq-skills-5b63119fad8f06.3803801615332192317109.jpg" />
 <img align="left" alt="Kotlin" width="26px" 
   src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin-logo.svg/1200px-Kotlin-logo.svg.png" />
