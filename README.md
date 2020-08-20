@@ -48,7 +48,7 @@ Me encantaría ser desarrollador de videojuegos 😍
 
 ## Mis lenguajes
 
-<img align="left" alt="C#" width="35px" 
+<img align="left" alt="C#" width="50px" 
   src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" />
 <img align="left" alt="Java" width="26px" 
   src="https://b7.pngbarn.com/png/933/14/java-programming-language-computer-programming-object-oriented-programming-programmer-java-png-clip-art.png" />
