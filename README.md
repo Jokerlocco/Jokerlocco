@@ -2,26 +2,20 @@
 
 ## Descripción sobre mí
 
-<p>
+
 - Mi nombre es Gonzalo Arques (también conocido como Jokerlocco 🤣).
 Actualmente soy un estudiante de programación 👨‍💻, concretamente DAM 
 (Desarrollo de aplicaciones multiplataforma).
-</p>
 
-<p>
 - Desde pequeñito me encanta el ocio: Cine 📽, videojuegos 🎮, libros 📖...
 No podría vivir sin el universo de Resident Evil (videojuegos) 🧟‍♂️ 
 y el de Batman 🦇
 (sobre todo por Joker 🤡, mi personaje favorito de la vida).
-</p>
 
-<p>
 - Amo escribir mis propias historias y sus personajes ✍.
 Uno de mis sueños es el de publicar novelas. 
 Le prometí a mi madre que le dedicaría mi primer libro.
-</p>
 
-<p>
 - También me gusta crear contenido para Internet 
 (Vídeos, directos, críticas de películas, videojuegos, etc...). 
 Además, organizo una comunidad llamada 
@@ -30,12 +24,10 @@ Además, organizo una comunidad llamada
 </b> 
 que ha nacido para crecer con el mundo audiovisual: ¡Videojuegos, cine, series, 
 anime, y mucho más!
-</p>
 
-<p>
 - Y evidentemente, también me gusta programar. 
 Me encantaría ser desarrollador de videojuegos 😍
-</p>
+
 
 ## Mis redes
 
@@ -59,7 +51,7 @@ Me encantaría ser desarrollador de videojuegos 😍
 <img align="left" alt="C#" width="26px" 
   src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" />
 <img align="left" alt="Java" width="26px" 
-  src="https://img2.freepng.es/20181109/oll/kisspng-java-development-kit-logo-programming-language-por-java-logo-svg-5be5b5a7384425.8069537615417809032305.jpg" />
+  src="https://f1.pngfuel.com/png/425/99/631/java-logo-programming-language-selenium-computer-software-java-class-file-computer-programming-software-developer-software-framework-png-clip-art.png" />
 <img align="left" alt="SQL" width="26px" 
   src="https://img1.freepng.es/20180802/fh/kisspng-clip-art-microsoft-azure-sql-database-microsoft-sq-skills-5b63119fad8f06.3803801615332192317109.jpg" />
 <img align="left" alt="Kotlin" width="26px" 
@@ -84,7 +76,7 @@ Me encantaría ser desarrollador de videojuegos 😍
   <summary>:zap: Estadísticas de Github</summary>
 
   <img align="left" alt="stats" 
-    src="https://github-readme-stats.codestackr.vercel.app/api?username=Jokerloccoa&show_icons=true&hide_border=true" />
+    src="https://github-readme-stats.codestackr.vercel.app/api?username=Jokerlocco&show_icons=true&hide_border=true" />
 
 </details>
 
