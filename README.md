@@ -3,26 +3,31 @@
 ## Descripción sobre mí
 
 - Mi nombre es Gonzalo Arques (también conocido como Jokerlocco 🤣).
-Actualmente soy un estudiante de programación. Concretamente DAM 
+Actualmente soy un estudiante de programación 👨‍💻, concretamente DAM 
 (Desarrollo de aplicaciones multiplataforma).
-Soy un creador de contenido.
-Amante de los videojuegos desde pequeñito.
-RESIDENT EVIL COMO MÉTODO DE VIDA.
 
-- Me encanta el ocio: Cine, videojuegos, libros...
+- Desde pequeñito me encanta el ocio: Cine 📽, videojuegos 🎮, libros 📖...
+No podría vivir sin el universo de Resident Evil (videojuegos) 🧟‍♂️ 
+y el de Batman 🦇
+(sobre todo por Joker 🤡, mi personaje favorito de la vida)
 
-- Amo escribir mis propias historias y sus personajes. 
-Uno de mis sueños es el de publicar novelas.
+- Amo escribir mis propias historias y sus personajes ✍.
+Uno de mis sueños es el de publicar novelas. 
+Le prometí a mi madre que le dedicaría mi primer libro.
 
 - También me gusta crear contenido para Internet 
 (Vídeos, directos, críticas de películas, videojuegos, etc...). 
-Organizo una comunidad llamada <b>Gemus Team</b> que ha nacido para crecer con 
-el mundo audiovisual: ¡Videojuegos, cine, series, anime, y mucho más!
+Además, organizo una comunidad llamada 
+<b> 
+  <span color: red>Gemus</span> Team<span color: green></span>
+</b> 
+que ha nacido para crecer con el mundo audiovisual: ¡Videojuegos, cine, series, 
+anime, y mucho más!
 
 - Y evidentemente, también me gusta programar. 
 Me encantaría ser desarrollador de videojuegos 😍
 
-### Redes Sociales:
+## Mis redes
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/s47630dba498d6c41/image/i77345ef8eddd256e/version/1597965075/image.png" />][twitter]
 [<img align="left" alt="codeSTACKr | Youtube" width="22px" src="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/s47630dba498d6c41/image/iedab19bed9a53eb7/version/1597965029/image.png" />][youtube]
@@ -39,18 +44,24 @@ Me encantaría ser desarrollador de videojuegos 😍
 
 <br />
 
-### Lenguajes:
+## Mis lenguajes
 
+<img align="left" alt="C#" width="26px" 
+  src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" />
+<img align="left" alt="Java" width="26px" 
+  src="https://img2.freepng.es/20181109/oll/kisspng-java-development-kit-logo-programming-language-por-java-logo-svg-5be5b5a7384425.8069537615417809032305.jpg" />
+<img align="left" alt="SQL" width="26px" 
+  src="https://img2.freepng.es/20190610/gou/kisspng-microsoft-azure-sql-database-microsoft-azure-sql-d-postani-spletni-razvijalec-izberite-svojo-uno-5cfe7bd5b6e377.6992930615601817177491.jpg" />
+<img align="left" alt="Kotlin" width="26px" 
+  src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin-logo.svg/1200px-Kotlin-logo.svg.png" />
+  <img align="left" alt="Python" width="26px" 
+  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" />
 <img align="left" alt="HTML5" width="26px" 
   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" 
   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" 
   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="SQL" width="26px" 
-  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Terminal" width="26px" 
-  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
 <br />
@@ -61,7 +72,7 @@ Me encantaría ser desarrollador de videojuegos 😍
   <summary>:zap: Estadísticas de Github</summary>
 
   <img align="left" alt="stats" 
-    src="https://github-readme-stats.codestackr.vercel.app/api?username=Aaron-Moya&show_icons=true&hide_border=true" />
+    src="https://github-readme-stats.codestackr.vercel.app/api?username=Jokerloccoa&show_icons=true&hide_border=true" />
 
 </details>
 
