@@ -49,7 +49,7 @@ anime, y mucho más!
 <img align="left" alt="C#" width="50px" 
   src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" />
 <img align="left" alt="Java" width="50px" 
-  src="https://img2.freepng.es/20181109/oll/kisspng-java-development-kit-logo-programming-language-por-java-logo-svg-5be5b5a7384425.8069537615417809032305.jpg" />
+  src="https://mpng.subpng.com/20181109/oll/kisspng-java-development-kit-logo-programming-language-por-java-logo-svg-5be5b5a7384425.8069537615417809032305.jpg" />
 <img align="left" alt="SQL" width="50px" 
   src="https://asieratienza.com/images/sql.jpg" />
 <img align="left" alt="Kotlin" width="50px" 
