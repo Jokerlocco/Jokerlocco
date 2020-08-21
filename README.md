@@ -51,7 +51,7 @@ anime, y mucho más!
 <img align="left" alt="Java" width="50px" 
   src="https://cdn.freebiesupply.com/logos/thumbs/2x/java-logo.png" />
 <img align="left" alt="SQL" width="50px" 
-  src="https://img2.freepng.es/20190610/gou/kisspng-microsoft-azure-sql-database-microsoft-azure-sql-d-postani-spletni-razvijalec-izberite-svojo-uno-5cfe7bd5b6e377.6992930615601817177491.jpg" />
+  src="https://img2.freepng.es/20180802/vty/kisspng-clip-art-microsoft-azure-sql-database-microsoft-sq-skills-5b63119fd6c064.4634905815332192318796.jpg" />
 <img align="left" alt="Kotlin" width="50px" 
   src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin-logo.svg/1200px-Kotlin-logo.svg.png" />
   <img align="left" alt="Python" width="50px" 
