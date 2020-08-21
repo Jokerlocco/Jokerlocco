@@ -63,7 +63,7 @@ anime, y mucho más!
 <img align="left" alt="JavaScript" width="50px" 
   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="PHP" width="50px" 
-  src="https://img2.freepng.es/20180904/xhu/kisspng-logo-image-computer-icons-php-portable-network-gra-william-davies-meng-mongodb-5b8e9698822d99.0636011515360713205332.jpg" />
+  src="https://img1.freepng.es/20180802/fh/kisspng-clip-art-microsoft-azure-sql-database-microsoft-sq-skills-5b63119fad8f06.3803801615332192317109.jpg" />
 
 <br />
 <br />
