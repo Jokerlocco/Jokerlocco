@@ -49,9 +49,9 @@ anime, y mucho más!
 <img align="left" alt="C#" width="50px" 
   src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" />
 <img align="left" alt="Java" width="50px" 
-  src="https://cdn.freebiesupply.com/logos/thumbs/2x/java-logo.png" />
+  src="https://img2.freepng.es/20181109/oll/kisspng-java-development-kit-logo-programming-language-por-java-logo-svg-5be5b5a7384425.8069537615417809032305.jpg" />
 <img align="left" alt="SQL" width="50px" 
-  src="https://img2.freepng.es/20180802/vty/kisspng-clip-art-microsoft-azure-sql-database-microsoft-sq-skills-5b63119fd6c064.4634905815332192318796.jpg" />
+  src="https://asieratienza.com/images/sql.jpg" />
 <img align="left" alt="Kotlin" width="50px" 
   src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin-logo.svg/1200px-Kotlin-logo.svg.png" />
   <img align="left" alt="Python" width="50px" 
@@ -63,7 +63,7 @@ anime, y mucho más!
 <img align="left" alt="JavaScript" width="50px" 
   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="PHP" width="50px" 
-  src="https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-png-transparent.png" />
+  src="https://img2.freepng.es/20180904/xhu/kisspng-logo-image-computer-icons-php-portable-network-gra-william-davies-meng-mongodb-5b8e9698822d99.0636011515360713205332.jpg" />
 
 <br />
 <br />
