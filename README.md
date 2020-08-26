@@ -80,7 +80,7 @@ anime, y mucho más!
 
 </details>
 
-[pagWeb]: https://www.jokerlocco.jimdo.com
+[pagWeb]: https://jokerlocco.jimdofree.com/
 [twitter]: https://twitter.com/jokerlocco
 [youtube]: https://www.youtube.com/user/jokerlocco
 [twitch]: https://www.twitch.tv/jokerlocco
