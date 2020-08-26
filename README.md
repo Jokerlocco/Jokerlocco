@@ -29,6 +29,7 @@ anime, y mucho más!
 
 ## Mis redes
 
+[<img align="left" alt="codeSTACKr | Pagina Web" width="40px" src="https://image.jimcdn.com/app/cms/image/transf/none/path/s47630dba498d6c41/image/iee5c8716519cd1eb/version/1598437247/image.png" />][pagWeb]
 [<img align="left" alt="codeSTACKr | Twitter" width="40px" src="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/s47630dba498d6c41/image/i77345ef8eddd256e/version/1597965075/image.png" />][twitter]
 [<img align="left" alt="codeSTACKr | Youtube" width="40px" src="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/s47630dba498d6c41/image/iedab19bed9a53eb7/version/1597965029/image.png" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitch" width="40px" src="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/s47630dba498d6c41/image/i03c9f337c19edd75/version/1597965029/image.png" />][twitch]
@@ -79,6 +80,7 @@ anime, y mucho más!
 
 </details>
 
+[pagWeb]: jokerlocco.jimdo.com
 [twitter]: https://twitter.com/jokerlocco
 [youtube]: https://www.youtube.com/user/jokerlocco
 [twitch]: https://www.twitch.tv/jokerlocco
