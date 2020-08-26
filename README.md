@@ -5,8 +5,7 @@
 
 - Mi nombre es <b>Gonzalo Arques</b> 
 (también conocido como <b>Jokerlocco</b> 🤣). <br />
-Actualmente soy un estudiante de programación 👨‍💻, concretamente DAM 
-(Desarrollo de aplicaciones multiplataforma).
+
 
 - Desde pequeñito me encanta el ocio: Cine 📽, videojuegos 🎮, libros 📖... <br />
 No podría vivir sin el universo de RESIDENT EVIL (videojuegos) 🧟‍♂️ 
@@ -17,14 +16,15 @@ y el de Batman 🦇
 Uno de mis sueños es el de publicar novelas. <br />
 Le prometí a mi madre que le dedicaría mi primer libro.
 
+- Actualmente soy un estudiante de programación 👨‍💻, concretamente DAM 
+(Desarrollo de aplicaciones multiplataforma).
+Me gusta programar, y me encantaría ser desarrollador de videojuegos! 😍
+
 - También me gusta crear contenido para Internet 
 (Vídeos, directos, críticas de películas, videojuegos, etc...). <br />
-Además, organizo una comunidad llamada <b> Gemus Team</b> 
+Además, participo en una comunidad llamada <b> Gemus Team</b> 
 que ha nacido para crecer con el mundo audiovisual: ¡Videojuegos, cine, series, 
 anime, y mucho más!
-
-- Y evidentemente, también me gusta programar. 
-¡Me encantaría ser desarrollador de videojuegos! 😍
 
 
 ## Mis redes
@@ -35,8 +35,9 @@ anime, y mucho más!
 [<img align="left" alt="codeSTACKr | Wattpad" width="40px" src="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/s47630dba498d6c41/image/if881ca2735639597/version/1597965029/image.png" />][wattpad]
 [<img align="left" alt="codeSTACKr | Instagram" width="40px" src="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/s47630dba498d6c41/image/i34a58ffd15fcaa4e/version/1597965029/image.png" />][instagram]
 [<img align="left" alt="codeSTACKr | Gemus Team" width="40px" src="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/s47630dba498d6c41/image/ic8742743dc1d7a1a/version/1597965029/image.png" />][gemusteam]
-[<img align="left" alt="codeSTACKr | Metacritic" width="40px" src="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/s47630dba498d6c41/image/i787faf8e2c98210a/version/1597965029/image.png" />][metacritic]
-[<img align="left" alt="codeSTACKr | IMDb" width="40px" src="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/s47630dba498d6c41/image/ifaf2cf5d21ada80a/version/1597965029/image.png" />][imdb]
+[<img align="left" alt="codeSTACKr | FilmAffinity" width="40px" src="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/s47630dba498d6c41/image/ic8742743dc1d7a1a/version/1597965029/image.png" />][filmaffinity]
+<!-- [<img align="left" alt="codeSTACKr | Metacritic" width="40px" src="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/s47630dba498d6c41/image/i787faf8e2c98210a/version/1597965029/image.png" />][metacritic]
+[<img align="left" alt="codeSTACKr | IMDb" width="40px" src="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/s47630dba498d6c41/image/ifaf2cf5d21ada80a/version/1597965029/image.png" />][imdb] -->
 [<img align="left" alt="codeSTACKr | RAWG" width="40px" src="https://image.jimcdn.com/app/cms/image/transf/none/path/s47630dba498d6c41/image/i4589777e69787ffa/version/1597965075/image.png" />][rawg]
 [<img align="left" alt="codeSTACKr | Steam" width="40px" src="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/s47630dba498d6c41/image/ia02791adcfdeb731/version/1597965029/image.png" />][steam]
 [<img align="left" alt="codeSTACKr | Facebook" width="40px" src="https://image.jimcdn.com/app/cms/image/transf/dimension=90x90:format=png/path/s47630dba498d6c41/image/i99ed69c4a4f8bf15/version/1597965029/image.png" />][facebook]
@@ -84,8 +85,9 @@ anime, y mucho más!
 [wattpad]: https://www.wattpad.com/user/Jokerlocco
 [instagram]: https://goo.gl/t9wC98
 [gemusteam]: https://www.youtube.com/channel/UCBW_d309abK4axPy9mWRHNQ
-[metacritic]: https://www.metacritic.com/user/Jokerlocco
-[imdb]: http://imdb.to/30BQHdK
+[filmaffinity]: https://bit.ly/2QssAuK
+<!-- [metacritic]: https://www.metacritic.com/user/Jokerlocco
+ [imdb]: http://imdb.to/30BQHdK -->
 [rawg]: https://rawg.io/@jokerlocco/games
 [steam]: http://store.steampowered.com/curator/29466700/
 [facebook]: https://www.facebook.com/jokerlocco
